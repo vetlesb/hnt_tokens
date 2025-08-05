@@ -1112,7 +1112,7 @@
       },
       "heading4": {
         "value": {
-          "fontWeight": "{typography.fontWeight.regular}",
+          "fontWeight": "{typography.fontWeight.medium}",
           "fontSize": "{typography.fontSize.lg}",
           "lineHeight": "{typography.lineHeight.md}",
           "fontFamily": "{typography.fontFamily.primary}"
@@ -1121,7 +1121,7 @@
       },
       "heading5": {
         "value": {
-          "fontWeight": "{typography.fontWeight.regular}",
+          "fontWeight": "{typography.fontWeight.medium}",
           "fontSize": "{typography.fontSize.sm}",
           "lineHeight": "{typography.lineHeight.md}",
           "fontFamily": "{typography.fontFamily.primary}"
